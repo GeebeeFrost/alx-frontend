@@ -1,2 +1,5 @@
 # W3C validator file
 w3c_validator.py
+
+# Python imports
+__pycache__/

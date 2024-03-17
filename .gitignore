@@ -3,3 +3,6 @@ w3c_validator.py
 
 # Python imports
 __pycache__/
+
+# VS Code settings
+.vscode/

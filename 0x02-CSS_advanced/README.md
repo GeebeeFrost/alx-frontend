@@ -1,0 +1,1 @@
+Directory created for the ALX Advanced CSS project

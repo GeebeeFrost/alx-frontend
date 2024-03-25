@@ -6,3 +6,6 @@ __pycache__/
 
 # VS Code settings
 .vscode/
+
+# Test HTML
+0x02-CSS_advanced/index.html
